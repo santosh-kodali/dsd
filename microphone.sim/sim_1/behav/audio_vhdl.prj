@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../Nexys4-master/Projects/User_Demo/src/hdl/PsramCntrl.vhd"
+vhdl xil_defaultlib  "../../../microphone.srcs/sources_1/new/pdmpcm.vhd"
+vhdl xil_defaultlib  "../../../../../Nexys4-master/Projects/User_Demo/src/hdl/LedBar.vhd"
+vhdl xil_defaultlib  "../../../microphone.srcs/sources_1/new/audio.vhd"
+
+# Do not sort compile order
+nosort

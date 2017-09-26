@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Sep 27 00:00:31 2017
+# Process ID: 19272
+# Current directory: C:/Users/Santosh/Documents/dsd/microphone/microphone.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/Santosh/Documents/dsd/microphone/microphone.sim/sim_1/behav/xsim.dir/audio_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Santosh/Documents/dsd/microphone/microphone.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Santosh/Documents/dsd/microphone/microphone.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Santosh/Documents/dsd/microphone/microphone.sim/sim_1/behav/xsim.dir/audio_behav/webtalk/xsim_webtalk.tcl -notrace
